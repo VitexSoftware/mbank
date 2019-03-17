@@ -1,4 +1,7 @@
-## Library for accessing mBank PL transaction service
+![EasePHP Framework Logo](https://raw.githubusercontent.com/VitexSoftware/mbank/master/project-logo.png "Project Logo")
+## Library for accessing mBank PL/CZ/SK transaction service
+
+( Forked from [bgaluszka/mbank](https://github.com/bgaluszka/mbank) )
 
  Suitable for checking for new transactions. Supported features:
 
@@ -21,10 +24,11 @@ Install library from composer:
 
     {
         "require": {
-            "bgaluszka/mbank": "dev-master"
+            "vitexsoftware/mbank": "dev-master"
         }
     }
 
 ## Usage examples
 
 For usage examples, please see scripts in [examples/](examples/) directory. 
+

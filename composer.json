@@ -1,9 +1,9 @@
 {
-    "name": "bgaluszka/mbank",
+    "name": "vitexsoftware/mbank",
     "type": "library",
-    "description": "Library for accessing mBank PL transaction service",
+    "description": "Library for accessing mBank PL/CZ/SK transaction service",
     "keywords": ["mbank","api"],
-    "homepage": "https://github.com/bgaluszka/mbank",
+    "homepage": "https://github.com/VitexSoftware/mbank",
     "license": "MIT",
     "authors": [
         {
@@ -11,10 +11,16 @@
             "email": "bgaluszka@kint.pl",
             "homepage": "http://kint.pl",
             "role": "Developer"
+        },
+        {
+            "name": "Vítězslav Dvořák",
+            "email": "info@vitexsoftware.cz",
+            "homepage": "http://v.s.cz/",
+            "role": "Developer"
         }
     ],
     "support": {
-        "issues": "https://github.com/bgaluszka/mbank/issues"
+        "issues": "https://github.com/VitexSoftware/mbank/issues"
     },
     "require": {
         "php": ">=5.3.0",
